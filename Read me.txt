@@ -1,0 +1,6 @@
+Name =Munasingha M.H.C
+IT Number =IT21358616
+
+I will create Admin class and Feedback class
+I also create Admin and Feedback code in their classes
+create main.cpp
